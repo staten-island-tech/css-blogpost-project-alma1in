@@ -1,7 +1,19 @@
 body {
   font-family: "Playfair Display", serif;
-  background-color: rgb(247, 215, 235);
+  background-color: #f2e5d9;
 }
 .header {
-  color: rgb(255, 255, 216);
+  color: #a18167;
+  text-align: center;
+  width: 500px;
+  margin: 40px auto;
+  padding: 50px;
+  border: 7px solid #fafdf3;
+}
+.one {
+  margin: 70px;
+  text-align: center;
+  width: 700px;
+  background-color: #e9d3c0;
+  padding: 100px;
 }
