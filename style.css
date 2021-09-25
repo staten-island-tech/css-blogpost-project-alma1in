@@ -11,9 +11,12 @@ body {
   border: 7px solid #fafdf3;
 }
 .one {
-  margin: 70px;
+  margin: 70px auto;
   text-align: center;
-  width: 700px;
+  width: 900px;
+  height: 400px;
   background-color: #e9d3c0;
-  padding: 100px;
+  padding: 20px;
+  font-size: 30px;
+  color: #fdfaf7;
 }
