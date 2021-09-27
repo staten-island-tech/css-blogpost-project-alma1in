@@ -20,3 +20,23 @@ body {
   font-size: 30px;
   color: #fdfaf7;
 }
+.two {
+  margin: 70px auto;
+  text-align: center;
+  width: 900px;
+  height: 400px;
+  background-color: #e9d3c0;
+  padding: 20px;
+  font-size: 30px;
+  color: #fdfaf7;
+}
+.three {
+  margin: 70px auto;
+  text-align: center;
+  width: 900px;
+  height: 400px;
+  background-color: #e9d3c0;
+  padding: 20px;
+  font-size: 30px;
+  color: #fdfaf7;
+}
