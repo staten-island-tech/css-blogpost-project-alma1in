@@ -1,5 +1,5 @@
 body {
-  font-family: "Playfair Display", serif;
+  font-family: "Cinzel Decorative", cursive;
   background-color: #f2e5d9;
 }
 .header {
@@ -19,4 +19,5 @@ body {
   padding: 20px;
   font-size: 30px;
   color: #fdfaf7;
+  border-radius: 25px;
 }
