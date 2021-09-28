@@ -1,23 +1,33 @@
 body {
-  font-family: "Cinzel Decorative", cursive;
   background-color: #f2e5d9;
+  font-family: "Cormorant", serif;
 }
 .header {
   color: #a18167;
   text-align: center;
-  width: 500px;
+  width: 600px;
   margin: 40px auto;
   padding: 50px;
   border: 7px solid #fafdf3;
+  border-radius: 25px;
+  font-size: 30px;
 }
 .post {
   margin: 100px auto;
   text-align: center;
   width: 900px;
-  height: 600px;
+  height: 700px;
   background-color: #e9d3c0;
-  padding: 20px;
-  font-size: 30px;
+  padding: 70px;
+  font-size: 40px;
   color: #fdfaf7;
   border-radius: 25px;
+}
+.font-color {
+  color: #fffff2;
+}
+.link {
+  background-color: #fafdf3;
+  border-radius: 25px;
+  text-align: center;
 }
