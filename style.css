@@ -12,22 +12,55 @@ body {
   border-radius: 25px;
   font-size: 30px;
 }
-.post {
+.main-post {
   margin: 100px auto;
   text-align: center;
   width: 900px;
-  height: 700px;
+  height: 800px;
   background-color: #e9d3c0;
   padding: 70px;
   font-size: 40px;
   color: #fdfaf7;
   border-radius: 25px;
+  border: 7px solid #fafdf3
 }
-.color {
+.post {
   color: #fffff2;
 }
-.link {
+.links {
   background-color: #fafdf3;
   border-radius: 25px;
   text-align: center;
+  font-size: 25px;
+  color: #a18167;
+  font-style: bold;
+}
+.post-image {
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white;
+  height: 35vh;
+  width: 35vh;
+}
+#image-matcha {
+  background-image: url(img/matcha.png);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#image-blueberry {
+  background-image: url(img/blueberry.png);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+#image-mochi {
+  background-image: url(img/mochi.png);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+.center {
 }
